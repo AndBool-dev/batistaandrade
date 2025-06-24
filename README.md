@@ -36,7 +36,7 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
-✉️ batista.andrade@email.com (exemplo - troque pelo seu)
+✉️ santosba.andrade@email.com
 
 ---
 
